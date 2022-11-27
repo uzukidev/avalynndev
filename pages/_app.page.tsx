@@ -2,6 +2,7 @@ import "../styles/base/_tokens.scss";
 import "../styles/base/_theme.scss";
 import "../styles/base/_reset.scss";
 import "../styles/base/_utils.scss";
+import "../styles/404.css";
 import { AppProps } from "next/app";
 import { Theme } from "../components/layouts";
 
