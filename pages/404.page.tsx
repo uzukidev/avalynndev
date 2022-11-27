@@ -20,7 +20,7 @@ const NotFound = () => {
       <br />
       <section className="text">
         <h1>404</h1>
-        <h2>Maybe you're lost or you are an imposter👻</h2>
+        <h2>Maybe you are lost or you are an imposter👻</h2>
       </section>
       <br />
       <br />
