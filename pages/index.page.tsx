@@ -42,7 +42,7 @@ export default HomePage;
 export const getStaticProps: GetStaticProps = async () => {
   const userUrl = "https://api.github.com/users/avalynndev";
   const contentUrl =
-    "https://raw.githubusercontent.com/avalynndev/avalynndev/main/WEBSITE_README.md";
+    "https://raw.githubusercontent.com/avalynndev/avalynndev/main/website/README.md";
 
   const user = await axios
     .get(userUrl)
